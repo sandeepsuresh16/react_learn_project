@@ -27,3 +27,7 @@
 .deletebutton:hover {
     background-color: #ffc06d;
 }
+
+.comoleted {
+    text-decoration: line-through;
+}
